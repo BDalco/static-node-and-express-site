@@ -5,10 +5,10 @@ I created a JSON file to store all the data about the projects I've created. I a
 
 I used Pug to complete provided templates that utilize the JSON to generate the markup that is ultimately displayed in the browser.
 
-I used Node.js and Express to:
-• Import the required dependencies
-• Link the JSON with the Pug templates
-• Set up routes to handle requests
-• Set up the middleware to utilize static files like CSS
-• Handle errors
-• Set up a server to serve the project
+I used Node.js and Express to:<br>
+• Import the required dependencies<br>
+• Link the JSON with the Pug templates<br>
+• Set up routes to handle requests<br>
+• Set up the middleware to utilize static files like CSS<br>
+• Handle errors<br>
+• Set up a server to serve the project<br>
