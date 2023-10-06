@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "In this project, I created an app that displays random famous quotes each time a button is clicked. I selected my own quotes from famous movies. I used my growing knowledge of basic JavaScript syntax, variables, loops, conditionals and object literals.",
+      "technologies": ["JS", "CSS", "HTML"],
+      "live_link": "https://bdalco.github.io/random-quote-generator/",
+      "github_link": "https://github.com/BDalco/random-quote-generator",
+      "gallery_urls": ["../static/images/random-quote-generator-gallery.jpg"],
+      "image_urls": ["../static/images/random-quote-generator-01.jpg", "../static/images/random-quote-generator-02.jpg", "../static/images/random-quote-generator-03.jpg"]
+    },
+    {
+      "id": 1,
+      "project_name": "Data Pagination and Filtering",
+      "description": "In this project, I used a common web development technique known as “pagination” to enhance the usability of a web page. I started with a file that contains information for 42 students, including name, email, and picture. I started by using your JavaScript skills to display the first nine students on the page. I also added navigation, also known as pagination buttons, that the user can click to display different pages of students.",
+      "technologies": ["JS", "CSS", "HTML"],
+      "live_link": "https://bdalco.github.io/data-pagination-and-filtering/",
+      "github_link": "https://github.com/BDalco/data-pagination-and-filtering",
+      "gallery_urls": ["../static/images/data-pagination-and-filtering-gallery.jpg"],
+      "image_urls": ["../static/images/data-pagination-and-filtering-01.jpg","../static/images/data-pagination-and-filtering-02.jpg"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "In this project, I used JavaScript to enhance an interactive registration form for a fictional Full Stack conference. Using the supplied HTML and CSS files, I added JavaScript to make the form more user-friendly. The form also dynamically displays error messages when necessary in the required input fields.",
+      "technologies": ["JS", "CSS", "HTML"],
+      "live_link": "https://bdalco.github.io/interactive-form/",
+      "github_link": "https://github.com/BDalco/interactive-form",
+      "gallery_urls": ["../static/images/interactive-form-gallery.jpg"],
+      "image_urls": ["../static/images/interactive-form-01.jpg", "../static/images/interactive-form-02.jpg"]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game",
+      "description": "In this project, I created a browser-based, word guessing game: 'Phrase Hunter'. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard. Each time the player guesses a letter, the program compares the letter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on the screen. A player continues to select letters until they guess the phrase (and win), or make five incorrect guesses (and lose). If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears. A player can guess a letter only once. After they’ve guessed a letter, your programming will need to disable that letter on the onscreen keyboard.",
+      "technologies": ["JS", "CSS", "HTML"],
+      "live_link": "https://github.com/BDalco/oop-game",
+      "github_link": "https://bdalco.github.io/oop-game/",
+      "gallery_urls": ["../static/images/oop-game-gallery.jpg"],
+      "image_urls": ["../static/images/oop-game-01.jpg", "../static/images/oop-game-02.jpg", "../static/images/oop-game-03.jpg", "../static/images/oop-game-04.jpg"]
+    },
+    {
+      "id": 4,
+      "project_name": "Student Files",
+      "description": "For this project, I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.  I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and used that data to build a prototype for an Awesome Startup employee directory. I requested a JSON object from the API and parsed the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+      "technologies": ["JS", "Fetch API", "async/await"],
+      "live_link": "https://bdalco.github.io/student-files/",
+      "github_link": "https://github.com/BDalco/student-files",
+      "gallery_urls": ["../static/images/student-files-project-gallery.jpg"],
+      "image_urls": ["../static/images/student-files-project-01.jpg", "../static/images/student-files-project-02.jpg"]
+    }
+  ]
+}

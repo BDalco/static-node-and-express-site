@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back to home
+  
+  article.portfolio-intro
+    h1 Oops, something went wrong!
+    p <strong>Status:</strong> #{error.status} #{error.message}
